@@ -4,7 +4,7 @@ This repository demonstrates a Self-Organizing Map (SOM) trained on the Wisconsi
 
 The main notebook trains a 12 x 12 SOM, visualizes the final U-matrix, maps benign and malignant samples onto the learned grid, and exports an animated GIF showing how the SOM evolves during training.
 
-(<img width="1400" height="1400" alt="som_breast_cancer_animation" src="https://github.com/user-attachments/assets/b4df4323-a554-4e0b-9f66-454a2f0c00e9" />
+<img width="1400" height="1400" alt="som_breast_cancer_animation" src="https://github.com/user-attachments/assets/b4df4323-a554-4e0b-9f66-454a2f0c00e9" />
 
 
 ## Files
